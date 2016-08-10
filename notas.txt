@@ -1,0 +1,22 @@
+¿Qué es el desarrollo web?
+Escribir un documento de texto y que se pueda compartir por todo internet.
+
+HTML HyperText Markup Language
+Semántica del sitio (jerarquía)
+Atributos
+
+CSS Cascading style sheets
+Selectores: es cómo invocar y hacer referencia a las etiquetas html y darles estilos únicos.
+
+Sintaxis:
+	tipo de selector{
+	propiedad: valor;
+	}
+
+Rutas absolutas: www.facebook.com/images/logo.jpg
+Rutas relativas: parte desde dónde está el documento
+
+Disposición: Display de bloque o en linea o en linea y en bloque
+en linea: lo que sea se pone a su costado.
+en bloque: un bloque ocupa todo el campo que tiene a su disposición.
+inline-block: 
